@@ -1,0 +1,12 @@
+.jumbotron{
+	background-color: orange;
+	background-image: url(../imagenes/fondo-banner.jpg);
+	color:white;
+}
+.h3 {
+  font-family: 'Roboto',Arial,Helvetica,sans-serif;
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 900;
+  color: #00233b;
+}
